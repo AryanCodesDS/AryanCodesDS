@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Aryan!
 
-<!--
-**AryanCodesDS/AryanCodesDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Developer and Machine Learning enthusiast. I love building scalable applications, exploring the depths of AI, and solving complex problems. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 I’m currently working on **GenAI-driven projects**.
+- 🌱 I’m currently learning **Generative AI,Deep Learning and Machine Learning**.
+- 💬 Ask me about **GenAI,Machine Learning, Full Stack Development, or Python**.
+- 📫 How to reach me: [aryan1202tiwari@gmail.com](mailto:aryan1202tiwari@gmail.com)
+- ⚡ Fun fact: I just love coding in Python and watching One Piece!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanCodesDS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanCodesDS&layout=compact&theme=radical)
+
+---
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://aryan.codes)
+
+---
+
+### 📫 Contact
+- **Email**: [aryan1202tiwari@gmail.com](mailto:aryan1202tiwari@gmail.com)
+
+---
+
+> “When does a man die? When he is hit by a bullet? No! When he suffers a disease? No! When he ate a soup made out of a poisonous mushroom? No! A man dies when he is forgotten!” ― Eiichiro Oda, One Piece
